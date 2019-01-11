@@ -1,0 +1,23 @@
+body {
+    background-color: khaki;
+}
+
+#table{
+    margin: auto;
+    text-align: center;
+    width: 45%;
+    padding: 20px;
+
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+table{
+   text-align: center;
+    border-spacing: 10px;
+}
+
+#addUp100{
+    text-align: center;
+}
